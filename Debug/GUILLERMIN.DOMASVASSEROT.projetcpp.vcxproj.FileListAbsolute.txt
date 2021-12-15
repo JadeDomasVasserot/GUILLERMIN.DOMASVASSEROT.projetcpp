@@ -1,0 +1,2 @@
+E:\EPSI_B1\CoursB1\nicolaschevalier_c++\GUILLERMIN.DOMASVASSEROT.projetcpp\Debug\GUILLERMIN.DOMASVASSEROT.projetcpp.exe
+E:\EPSI_B1\CoursB1\nicolaschevalier_c++\GUILLERMIN.DOMASVASSEROT.projetcpp\Debug\GUILLERMIN.DOMASVASSEROT.projetcpp.pdb
